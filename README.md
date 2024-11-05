@@ -1,0 +1,1 @@
+Developed a deep learning model to recognize emotions from facial expressions in real-time using CNNs and OpenCV. Implemented the solution to detect and classify emotions in video feeds with high accuracy.
